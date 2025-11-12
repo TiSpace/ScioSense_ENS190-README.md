@@ -100,7 +100,7 @@ void loop() {
 
     runCommunication();
     if (((millis() - lastMeasurement) > (measurementDelay * 1000)) & enableMeasurement) {
-        Serial.print("CO2: ");
+        Serial.print("CO2: [ppm]");
         Serial.println(getCO2());
         lastMeasurement = millis();
     }
