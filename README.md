@@ -52,4 +52,5 @@ Device, datasheet, pictures, and some text are property of **ScioSense B.V.**
 ## ⚠️ Warranty
 This is a **private project**.  
 
-No warranty or responsibility is assumed by using this code.
+This code is provided as-is, without any warranty or liability.
+
