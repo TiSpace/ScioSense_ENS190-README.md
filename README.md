@@ -10,6 +10,7 @@ ScioSense provides complete libraries for easy integration on their official [Gi
 Find the full datasheet [here](https://www.sciosense.com/wp-content/uploads/2025/05/ENS190-Datasheet.pdf).
 This code supports all essential functions for **RS232 communication**, including:
 
+- reading CO₂ concentration
 - Automatic baseline correction (**ABC**) parameters
 - Setting and reading alarm thresholds
 - Manual CO₂ baseline adjustment
@@ -53,6 +54,7 @@ Device, datasheet, pictures, and some text are property of **ScioSense B.V.**
 This is a **private project**.  
 
 This code is provided as-is, without any warranty or liability.
+
 
 
 
