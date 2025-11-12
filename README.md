@@ -11,10 +11,10 @@ Find the full datasheet [here](https://www.sciosense.com/wp-content/uploads/2025
 This code supports all essential functions for **RS232 communication**, including:
 
 - Automatic baseline correction (**ABC**) parameters
-- Setting alarm thresholds
+- Setting and reading alarm thresholds
 - Manual CO₂ baseline adjustment
 - Configuring baud rate
-- Retrieving serial number
+- Reading serial number
 - Reading firmware version
 
 ---
@@ -53,5 +53,6 @@ Device, datasheet, pictures, and some text are property of **ScioSense B.V.**
 This is a **private project**.  
 
 This code is provided as-is, without any warranty or liability.
+
 
 
